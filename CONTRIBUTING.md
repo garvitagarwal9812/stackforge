@@ -35,7 +35,7 @@ This project and everyone participating in it is governed by the [StackForge Cod
 
 ### 🐛 Reporting Bugs
 
-- Use the [GitHub Issues](https://github.com/garvitagarwal/stackforge/issues) page
+- Use the [GitHub Issues](https://github.com/garvitagarwal9812/stackforge/issues) page
 - Include your OS, Python version, and steps to reproduce
 - Paste the full error traceback if applicable
 - Check existing issues first to avoid duplicates
@@ -67,7 +67,7 @@ Documentation improvements are always welcome! This includes:
 
 ```bash
 # Clone and enter the project
-git clone https://github.com/garvitagarwal/stackforge.git
+git clone https://github.com/garvitagarwal9812/stackforge.git
 cd stackforge
 
 # Create a virtual environment (recommended)
@@ -151,4 +151,4 @@ test(presets): add validation tests for MERN preset
 
 Your contributions make StackForge better. Whether it's a one-line fix or a brand new template, we appreciate your time and effort.
 
-If you have questions, feel free to open a [Discussion](https://github.com/garvitagarwal/stackforge/discussions) or reach out at **garvit@stackforge.dev**.
+If you have questions, feel free to open a [Discussion](https://github.com/garvitagarwal9812/stackforge/discussions) or reach out at **garvit@stackforge.dev**.

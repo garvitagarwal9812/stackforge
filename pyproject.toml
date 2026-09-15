@@ -46,7 +46,7 @@ where = ["."]
 include = ["stackforge*"]
 
 [project.urls]
-Homepage = "https://github.com/garvitagarwal/stackforge"
-Repository = "https://github.com/garvitagarwal/stackforge"
-"Bug Tracker" = "https://github.com/garvitagarwal/stackforge/issues"
+Homepage = "https://github.com/garvitagarwal9812/stackforge"
+Repository = "https://github.com/garvitagarwal9812/stackforge"
+"Bug Tracker" = "https://github.com/garvitagarwal9812/stackforge/issues"
 

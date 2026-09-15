@@ -229,15 +229,15 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🌍 Community
 
-- 📣 [GitHub Discussions](https://github.com/garvitagarwal/stackforge/discussions) — Ask questions, share ideas
-- 🐛 [Issue Tracker](https://github.com/garvitagarwal/stackforge/issues) — Report bugs, request features
-- 📖 [Code of Conduct](CODE_OF_CONDUCT.md) — Our community standards
-- 📋 [Changelog](CHANGELOG.md) — What's new in each release
+- 📣 [GitHub Discussions](https://github.com/garvitagarwal9812/stackforge/discussions) — Ask questions, share ideas
+- 🐛 [Issue Tracker](https://github.com/garvitagarwal9812/stackforge/issues) — Report bugs, request features
+- 📖 [Code of Conduct](https://github.com/garvitagarwal9812/stackforge/blob/main/CODE_OF_CONDUCT.md) — Our community standards
+- 📋 [Changelog](https://github.com/garvitagarwal9812/stackforge/blob/main/CHANGELOG.md) — What's new in each release
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/garvitagarwal">Garvit Agarwal</a>
+  Made with ❤️ by <a href="https://github.com/garvitagarwal9812">Garvit Agarwal</a>
   <br>
   If you find StackForge useful, please ⭐ star the repo — it helps a lot!
 </p>
