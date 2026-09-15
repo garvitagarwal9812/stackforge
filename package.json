@@ -1,0 +1,48 @@
+{
+  "name": "stackforge-dev",
+  "version": "1.0.0",
+  "description": "Terminal-based developer project boilerplate and DevOps CI/CD pipeline generator",
+  "author": "Garvit Agarwal",
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "boilerplate",
+    "template-generator",
+    "devops",
+    "ci-cd",
+    "docker",
+    "kubernetes",
+    "fastapi",
+    "react",
+    "scaffold",
+    "project-generator",
+    "pipeline",
+    "terminal-ui"
+  ],
+  "bin": {
+    "stackforge": "./bin/stackforge.js"
+  },
+  "scripts": {
+    "postinstall": "node ./bin/check_python.js",
+    "test": "echo \"Run tests via: python -m unittest discover tests -v\""
+  },
+  "files": [
+    "bin/",
+    "stackforge/",
+    "run.py",
+    "requirements.txt",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garvitagarwal/stackforge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/garvitagarwal/stackforge/issues"
+  },
+  "homepage": "https://github.com/garvitagarwal/stackforge#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,52 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stackforge-dev"
+version = "1.0.0"
+description = "Terminal-based developer project boilerplate and DevOps CI/CD pipeline generator"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Garvit Agarwal", email = "garvit@stackforge.dev" }
+]
+keywords = ["cli", "boilerplate", "template-generator", "devops", "ci-cd", "docker", "kubernetes", "fastapi", "react", "terminal-ui"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Code Generators",
+]
+dependencies = [
+    "rich>=13.0.0",
+    "prompt_toolkit>=3.0.0",
+    "jinja2>=3.1.0",
+    "pyyaml>=6.0",
+    "click>=8.0.0",
+    "pydantic>=2.0.0",
+]
+
+[project.scripts]
+stackforge = "stackforge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["stackforge*"]
+
+[project.urls]
+Homepage = "https://github.com/garvitagarwal/stackforge"
+Repository = "https://github.com/garvitagarwal/stackforge"
+"Bug Tracker" = "https://github.com/garvitagarwal/stackforge/issues"
+

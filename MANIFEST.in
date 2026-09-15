@@ -1,0 +1,5 @@
+include README.md
+include requirements.txt
+include run.py
+recursive-include stackforge *.py
+recursive-include tests *.py

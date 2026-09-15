@@ -1,0 +1,14 @@
+# npm ignore - exclude unnecessary files from npm package
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+tests/
+*.stackforge.json
+*.bat
+.gitignore
+CONTRIBUTING.md
+GUIDE.md
