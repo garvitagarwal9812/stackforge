@@ -15,7 +15,7 @@ We take the security of StackForge seriously. If you discover a security vulnera
 
 **DO NOT** open a public GitHub issue for security vulnerabilities.
 
-Instead, please send an email to **garvit@stackforge.dev** with:
+Instead, please send an email to **mathewanderson6546@gmail.com** with:
 
 1. **Description** of the vulnerability
 2. **Steps to reproduce** the issue

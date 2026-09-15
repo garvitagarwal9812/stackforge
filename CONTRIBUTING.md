@@ -16,7 +16,7 @@ Every contribution — whether it's fixing a typo, adding a new template, report
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [StackForge Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **garvit@stackforge.dev**.
+This project and everyone participating in it is governed by the [StackForge Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **mathewanderson6546@gmail.com**.
 
 ## Getting Started
 
@@ -151,4 +151,4 @@ test(presets): add validation tests for MERN preset
 
 Your contributions make StackForge better. Whether it's a one-line fix or a brand new template, we appreciate your time and effort.
 
-If you have questions, feel free to open a [Discussion](https://github.com/garvitagarwal9812/stackforge/discussions) or reach out at **garvit@stackforge.dev**.
+If you have questions, feel free to open a [Discussion](https://github.com/garvitagarwal9812/stackforge/discussions) or reach out at **mathewanderson6546@gmail.com**.

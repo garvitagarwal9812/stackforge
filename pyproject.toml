@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-    { name = "Garvit Agarwal", email = "garvit@stackforge.dev" }
+    { name = "Garvit Agarwal", email = "mathewanderson6546@gmail.com" }
 ]
 keywords = ["cli", "boilerplate", "template-generator", "devops", "ci-cd", "docker", "kubernetes", "fastapi", "react", "terminal-ui"]
 classifiers = [
